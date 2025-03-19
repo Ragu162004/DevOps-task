@@ -35,3 +35,12 @@
     #### manipulate html file using,
 
         - nano index.html || vi index.html
+
+### Docker compose is used to run multiple images (.yaml file)
+
+    #### Steps in the docker compose
+        
+        - docker-compose up -d
+        - docker-compose down -d
+        - docker-compose images
+        - docker-compose ps
